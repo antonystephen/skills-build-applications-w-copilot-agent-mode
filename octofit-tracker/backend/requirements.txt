@@ -1,0 +1,9 @@
+# Requirements for OctoFit Tracker Backend
+
+# Based on Mona High School Fitness Tracker
+
+# Python packages
+Django==4.2
+DjangoRestFramework==3.14
+PyJWT==2.6
+pymongo==4.5
